@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Advanced Verification Methodologies  
 - 💞️ I’m looking to collaborate on RTL design, SystemVerilog/UVM verification projects, and protocol-based verification
 - 📫 You can connect with me on:
+  
   🔗 LinkedIn: www.linkedin.com/in/seeram-jaya-abhiram-833121217
+
   📩 Gmail: seeramjayaabhiram@gmail.com
 
 
