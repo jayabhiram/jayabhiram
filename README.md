@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jayabhiram
-- 👀 I’m interested in travelling and Capturing life's moments one click at a time
-- 🌱 I’m currently learning Cloud Computing
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @jayabhiram  
+- 👀 I’m interested in traveling and capturing life's moments one click at a time  
+- 🌱 I’m currently learning Advanced Verification Methodologies  
+- 💞️ I’m looking to collaborate on RTL design, SystemVerilog/UVM verification projects, and protocol-based verification  
 - 📫 How to reach me seeramjayaabhiram@gmail.com 
 
 <!---
